@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Welcome to My Blog"
-date:   2018-10-06 08:58:39 +0700
+date:   2018-10-06 08:58:39 +0000
 categories: jekyll update
+author: supatier
 ---
 
 Just testing 1, 2, 3.
